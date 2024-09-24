@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-rodelas-navbar/static/css/main.6e57b5f6.css",
+    "main.js": "/ws101-rodelas-navbar/static/js/main.948c3563.js",
+    "index.html": "/ws101-rodelas-navbar/index.html",
+    "main.6e57b5f6.css.map": "/ws101-rodelas-navbar/static/css/main.6e57b5f6.css.map",
+    "main.948c3563.js.map": "/ws101-rodelas-navbar/static/js/main.948c3563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e57b5f6.css",
+    "static/js/main.948c3563.js"
+  ]
+}
