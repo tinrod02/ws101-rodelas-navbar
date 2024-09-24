@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ws101-rodelas-navbar/static/css/main.b7cb2c24.css",
+    "main.css": "/ws101-rodelas-navbar/static/css/main.394ae07d.css",
     "main.js": "/ws101-rodelas-navbar/static/js/main.948c3563.js",
     "index.html": "/ws101-rodelas-navbar/index.html",
-    "main.b7cb2c24.css.map": "/ws101-rodelas-navbar/static/css/main.b7cb2c24.css.map",
+    "main.394ae07d.css.map": "/ws101-rodelas-navbar/static/css/main.394ae07d.css.map",
     "main.948c3563.js.map": "/ws101-rodelas-navbar/static/js/main.948c3563.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7cb2c24.css",
+    "static/css/main.394ae07d.css",
     "static/js/main.948c3563.js"
   ]
 }
